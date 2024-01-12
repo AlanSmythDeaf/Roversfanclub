@@ -32,6 +32,15 @@ header a {
     letter-spacing: 2px;
 }
 
+#header-menu > li {
+    margin-bottom: 1em;
+}
+
+.active {
+    border-radius: 2px;
+    border: 0.5px solid rgb(217, 253, 217);
+}
+
 /* Main */
 
 

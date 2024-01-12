@@ -6,15 +6,35 @@
 }
 
 body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
 
 /* header */
+header {
+    background-color: #118525;
+    position: fixed;
+    width: 100%;
+    padding: 0 1rem;
+}
 
+#header-menu {
+    list-style-type: none;
+}
 
 /* Main */
+main 
+{background-color: gray;
+position: fixed;
+}
 
 /* Footer */
 footer {
-    background-color: #118525; 
+    background-color: #118525;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
 }

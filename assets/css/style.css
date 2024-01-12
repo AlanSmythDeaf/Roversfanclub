@@ -12,6 +12,9 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
+h2 {
+    color: white;
+}
 
 /* header */
 header {
@@ -20,6 +23,9 @@ header {
     width: 100%;
     padding: 1rem 1rem;
     box-shadow: 0 2px gray;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 header a {
@@ -41,6 +47,30 @@ header a {
     border: 0.5px solid rgb(217, 253, 217);
 }
 
+/* dropdown toggle for the Nav */
+
+nav {
+    position: absolute;
+    background-color: #118525;
+    width: 100%;
+    left: 0;
+    display: none;
+    top: 100%;
+}
+
+/* toggle */
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 2rem;
+    color: #ffffff;
+}
 /* Main */
 
 

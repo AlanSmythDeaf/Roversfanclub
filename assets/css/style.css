@@ -18,18 +18,22 @@ header {
     background-color: #118525;
     position: fixed;
     width: 100%;
-    padding: 0 1rem;
+    padding: 1rem 1rem;
+    box-shadow: 0 2px gray;
+}
+
+header a {
+    text-decoration: none;
+    color: white;
 }
 
 #header-menu {
     list-style-type: none;
+    letter-spacing: 2px;
 }
 
 /* Main */
-main 
-{background-color: gray;
-position: fixed;
-}
+
 
 /* Footer */
 footer {

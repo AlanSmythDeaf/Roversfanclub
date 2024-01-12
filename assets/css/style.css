@@ -5,12 +5,16 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 /* header */
+
 
 /* Main */
 
-
 /* Footer */
 footer {
-    background-color: #118525;
+    background-color: #118525; 
 }

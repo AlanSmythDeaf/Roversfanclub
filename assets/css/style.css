@@ -79,11 +79,26 @@ main {
 
 /* Footer */
 footer {
+    width: 100%;
+    padding: 1rem 1rem;
     background-color: #118525;
     position: fixed;
-    width: 100%;
+    text-align: center;
     bottom: 0;
 }
+section {
+    display: inline;
+}
+
+#header-footer {
+    list-style-type: none;
+    letter-spacing: 2px;
+}
+
+#header-footer > li{
+    display: inline;
+}
+
 
 /* Media Query: Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
@@ -108,6 +123,11 @@ footer {
         border-radius: 2px;
         border: 0.5px solid rgb(217, 253, 217);
     }
+
+    header-footer {
+    padding: 1rem 1rem;
+    position: fixed;
+    text-align: left;
   } 
   
   /* Media Query: Large devices (laptops/desktops, 992px and up) */

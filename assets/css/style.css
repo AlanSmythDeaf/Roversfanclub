@@ -72,7 +72,10 @@ nav {
     color: #ffffff;
 }
 /* Main */
-
+main {
+    background-color: white;
+    color: black;
+}
 
 /* Footer */
 footer {

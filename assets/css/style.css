@@ -84,3 +84,22 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
+/* Media Query: Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    /* Header */
+    nav {
+        display: block;
+        position: relative;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+  } 
+  
+  /* Media Query: Large devices (laptops/desktops, 992px and up) */
+  @media only screen and (min-width: 992px) {
+  } 
+  
+  /* Media Query: Extra large devices (large laptops and desktops, 1200px and up) */
+  @media only screen and (min-width: 1200px) {
+  }

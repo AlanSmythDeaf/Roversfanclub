@@ -97,6 +97,19 @@ main    {
 
 /* About Rovers Section */
 
+/* Contact Us Section */
+#contact-details {
+    text-align: center;
+}
+
+.email {
+    margin: 20px;
+    border: 1px solid #118525;
+    border-radius: 2px;
+}
+.email > ul {
+    font-size: small;
+}
 
 /* Footer */
 footer {

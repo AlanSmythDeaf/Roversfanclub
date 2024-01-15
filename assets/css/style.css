@@ -99,6 +99,11 @@ main    {
 
 /* About Rovers Section */
 
+/* Roll of Honour Page */
+.flex-container img{
+    width: 75%;
+    
+}
 
 /* Gallery */
 #photos img{

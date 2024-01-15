@@ -111,11 +111,25 @@ main    {
 }
 
 /* Gallery */
+
+#photos {
+    text-align: center;
+}
+
 #photos img{
     margin-top: 20px;
-    width: 100%;
-    padding: 5px 5px 40px 5px;
+    width: 90%;
+    padding: 2px 2px 30px 2px;
+    border: 1px solid lightgray;
     box-shadow: 10px 10px 5px lightgray;
+}
+
+#gallery {
+    margin-top: 20px;
+}
+
+#header-gallery {
+    display: none;
 }
 /* Contact Us Section */
 
@@ -163,7 +177,6 @@ footer {
     width: 100%;
     padding: 1rem 1rem;
     background-color: #118525;
-    position: fixed;
     text-align: center;
     bottom: 0;
 }

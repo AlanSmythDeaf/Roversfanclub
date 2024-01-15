@@ -102,12 +102,16 @@ main    {
 #photos img{
     margin-top: 20px;
     width: 100%;
-    border: 1px solid #118525;
-    padding: 5px 5px;
-    line-height: 1em;
+    padding: 0px 5px;
 }
 
 /* Contact Us Section */
+#hero {
+    background-image: url(../images/hero-banner.png) ;
+    width: 100%;
+    height: 65vh;
+}
+
 #contact-details {
     text-align: center;
 }
@@ -116,17 +120,21 @@ main    {
     border: 1px solid #118525;
     border-radius: 2px;
     background-color: rgba(17, 133, 37, 0.2);
+    box-shadow: 10px 10px 5px lightgray;
 }
+
+.details > ul { 
+    font-size: small;
+}
+
 .email {
     margin: 20px;
     border: 1px solid #118525;
     border-radius: 2px;
     background-color: rgba(17, 133, 37, 0.2);
+    box-shadow: 10px 10px 5px lightgray;
 }
-.email > ul {
-    font-size: small;
-    
-}
+
 h3 {
     margin: 5px;
 }
@@ -134,7 +142,8 @@ h3 {
 .text-input {
     width: 80%;
     margin: 5px 0 5px 0;
-    height: 25px;
+    height: 30px;
+    padding: 10px;
 }
 
 /* Footer */
@@ -210,14 +219,16 @@ section {
     }
 
  /* Gallery */
-
+ #photos img{
+    margin-top: 30px;
+ }
  #photos {
     column-count: 2;
  }
+ 
   /* Media Query: Large devices (laptops/desktops, 992px and up) */
   @media only screen and (min-width: 992px) {
   } 
   
   /* Media Query: Extra large devices (large laptops and desktops, 1200px and up) */
-  @media only screen and (min-width: 1200px) {
-  }
+  @media only screen and (min-width: 1200px) 

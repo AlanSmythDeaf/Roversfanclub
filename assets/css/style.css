@@ -244,7 +244,16 @@ footer {
  .flex-container {
     column-count: 2;
  }
- 
+
+ /* footer */
+ #header-footer {
+    font-size: x-large;
+ }
+p {
+    font-size: x-large;
+}
+ }
+
   /* Media Query: Large devices (laptops/desktops, 1024px and up) */
   @media only screen and (min-width: 1024px) {
 

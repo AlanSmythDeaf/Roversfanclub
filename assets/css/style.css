@@ -97,18 +97,44 @@ main    {
 
 /* About Rovers Section */
 
+
+/* Gallery */
+#photos img{
+    margin-top: 20px;
+    width: 100%;
+    border: 1px solid #118525;
+    padding: 5px 5px;
+    line-height: 1em;
+}
+
 /* Contact Us Section */
 #contact-details {
     text-align: center;
 }
-
+.details {
+    margin: 20px;
+    border: 1px solid #118525;
+    border-radius: 2px;
+    background-color: rgba(17, 133, 37, 0.2);
+}
 .email {
     margin: 20px;
     border: 1px solid #118525;
     border-radius: 2px;
+    background-color: rgba(17, 133, 37, 0.2);
 }
 .email > ul {
     font-size: small;
+    
+}
+h3 {
+    margin: 5px;
+}
+
+.text-input {
+    width: 80%;
+    margin: 5px 0 5px 0;
+    height: 25px;
 }
 
 /* Footer */
@@ -164,6 +190,30 @@ section {
     text-align: left;
   } 
   
+  /* Contact Us */
+    #contact-details {
+        text-align: center;
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .email {
+        flex: 1;
+    }
+
+    .details {
+        padding-left: 10px;
+        width: 30%;
+    }
+
+    .details > ul {
+        text-align: left;
+    }
+
+ /* Gallery */
+
+ #photos {
+    column-count: 2;
+ }
   /* Media Query: Large devices (laptops/desktops, 992px and up) */
   @media only screen and (min-width: 992px) {
   } 
@@ -171,4 +221,3 @@ section {
   /* Media Query: Extra large devices (large laptops and desktops, 1200px and up) */
   @media only screen and (min-width: 1200px) {
   }
-}

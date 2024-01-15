@@ -101,8 +101,13 @@ main    {
 
 /* Roll of Honour Page */
 .flex-container img{
-    width: 75%;
-    
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin: 30px 30px;
+    border-radius: 2px;
+    box-shadow: 10px 10px 5px lightgray;
 }
 
 /* Gallery */
@@ -174,7 +179,7 @@ section {
 
 /* Media Query: Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
-    /* Header */
+/* Header */
     nav {
         display: block;
         position: relative;
@@ -202,7 +207,7 @@ section {
     text-align: left;
   } 
   
-  /* Contact Us */
+/* Contact Us */
     #contact-details {
         text-align: center;
         display: flex;
@@ -228,9 +233,21 @@ section {
  #photos {
     column-count: 2;
  }
+
+ /* Roll of Honour Page */
+ .flex-container {
+    column-count: 2;
+ }
  
   /* Media Query: Large devices (laptops/desktops, 992px and up) */
   @media only screen and (min-width: 992px) {
+    #photos {
+        column-count: 3;
+     }
+
+    .flex-container {
+        column-count: 3;
+     }
   } 
   
   /* Media Query: Extra large devices (large laptops and desktops, 1200px and up) */

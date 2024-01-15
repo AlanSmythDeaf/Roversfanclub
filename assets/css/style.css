@@ -154,6 +154,10 @@ h3 {
     padding: 10px;
 }
 
+#support-contact {
+    list-style: none;
+}
+
 /* Footer */
 footer {
     width: 100%;

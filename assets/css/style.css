@@ -114,9 +114,9 @@ main    {
 #photos img{
     margin-top: 20px;
     width: 100%;
-    padding: 0px 5px;
+    padding: 5px 5px 40px 5px;
+    box-shadow: 10px 10px 5px lightgray;
 }
-
 /* Contact Us Section */
 
 
@@ -239,8 +239,14 @@ section {
     column-count: 2;
  }
  
-  /* Media Query: Large devices (laptops/desktops, 992px and up) */
-  @media only screen and (min-width: 992px) {
+  /* Media Query: Large devices (laptops/desktops, 1024px and up) */
+  @media only screen and (min-width: 1024px) {
+
+    #hero {
+        background-image: url(../images/hero-banner.png);
+        width: 100%;
+    }
+    
     #photos {
         column-count: 3;
      }
@@ -250,5 +256,11 @@ section {
      }
   } 
   
-  /* Media Query: Extra large devices (large laptops and desktops, 1200px and up) */
-  @media only screen and (min-width: 1200px) 
+  /* Media Query: Extra large devices (large laptops and desktops, 1440px and up) */
+  @media only screen and (min-width: 1440px) {
+
+    #hero {
+        background-image: url(../images/hero-banner.png);
+        width: 100%;
+    }
+  }

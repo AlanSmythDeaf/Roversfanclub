@@ -167,8 +167,10 @@ footer {
     text-align: center;
     bottom: 0;
 }
-section {
-    display: inline;
+#bottom-icon {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
 }
 
 #header-footer {

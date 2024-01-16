@@ -45,6 +45,7 @@ header a {
 .active {
     border-radius: 2px;
     border: 0.5px solid rgb(217, 253, 217);
+    font-size: larger;
 }
 
 /* dropdown toggle for the Nav */
@@ -72,14 +73,14 @@ nav {
     font-size: 2rem;
     color: #ffffff;
 }
+
+
 /* Main */
-main    {
-    flex: 1 0 auto;
-    margin-top: 40px;
-}
+
 
 /* Banner section */ 
 #hero {
+    background-color: #118525;
     background-image: url(../images/hero-banner.png);
     background-repeat: no-repeat;
     background-position: center center;
@@ -100,6 +101,11 @@ main    {
 /* About Rovers Section */
 
 /* Roll of Honour Page */
+.flex-container {
+    flex: 1 0 auto;
+    margin-top: 35px;
+}
+
 .flex-container img{
     width: 80%;
     margin-left: auto;

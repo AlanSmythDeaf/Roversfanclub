@@ -136,7 +136,7 @@ nav {
 }
 
 #gallery {
-    margin-top: 20px;
+    margin-top: 5%;
 }
 
 #header-gallery {
@@ -146,6 +146,7 @@ nav {
 
 
 #contact-details {
+    margin-top: 13% ;
     text-align: center;
 }
 .details {
@@ -239,6 +240,7 @@ footer {
   
 /* Contact Us */
     #contact-details {
+        margin-top: 5% ;
         text-align: center;
         display: flex;
         justify-content: space-evenly;
@@ -255,6 +257,7 @@ footer {
     .details > ul {
         text-align: left;
     }
+
 
  /* Gallery */
  #photos img{

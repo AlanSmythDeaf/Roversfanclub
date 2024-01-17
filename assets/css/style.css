@@ -86,6 +86,7 @@ nav {
 
 /* Banner section */ 
 #hero {
+    margin-top: 20px;
     background-color: #118525;
     background-image: url(../images/hero-banner.png);
     background-repeat: no-repeat;

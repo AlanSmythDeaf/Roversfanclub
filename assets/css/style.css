@@ -143,14 +143,16 @@ nav {
 #header-gallery {
     display: none;
 }
-/* Contact Us Section */
 
+
+/* Contact Us Section */
 
 #contact-details {
     margin-top: 13% ;
     text-align: center;
 }
 .details {
+    padding: 1em;
     margin: 20px;
     border: 1px solid #118525;
     border-radius: 2px;
@@ -163,6 +165,7 @@ nav {
 }
 
 .email {
+    padding: 1em;
     margin: 20px;
     border: 1px solid #118525;
     border-radius: 2px;

@@ -56,9 +56,27 @@ I've tested my deployed project on multiple devices to check for responsiveness 
 
 
 ## Lighthouse Audit
+I've tested my deployed project using the Lighthouse Audit tool to check for any major issues.
 
+ - DESKTOP
 
+| Index - Home | ![screenshot](documentation/lighthouse/lighthouse-index.png) | Recommended hero banner to be WebP than png |
 
+| ROH -Roll of honour | ![screenshot](documentation/lighthouse/lighthouse-roh.png) | Recommended image to be WebP rather than png |
+
+| Index - Gallery | ![screenshot](documentation/lighthouse/lighthouse-gallery.png) | Recommend images that are appropriately-sized to save data and improve load time |
+
+| Contact | ![screenshot](documentation/lighthouse/lighthouse-contact.png) | Recommened not to use br after li |
+
+- MOBILE
+
+| Index - Home | ![screenshot](documentation/lighthouse/lighthouse-mobile-index.png) | Recommended hero banner to be WebP than png |
+
+| ROH -Roll of honour | ![screenshot](documentation/lighthouse/lighthouse-mobile-roh.png) | Recommended avoid large layout shifts & Recommended image to be WebP rather than png |
+
+| Index - Gallery | ![screenshot](documentation/lighthouse/lighthouse-mobile-gallery.png) | Recommended avoid large layout shifts & proplerly size images |
+
+| Contact | ![screenshot](documentation/lighthouse/lighthouse-mobile-contact.png) | 
 ## User Story Testing
 
 

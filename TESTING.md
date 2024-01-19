@@ -47,6 +47,12 @@ I've tested my deployed project on multiple browsers to check for compatibility 
 
 ## Responsiveness
 
+I've tested my deployed project on multiple devices to check for responsiveness issues.
+
+- Mobile Phone
+
+| Index - Home | Roll of Honour | Gallery | Contact | Notes |
+| ![screenshot](documentation/responsive-mobile-index.jpg) | ![screenshot](documentation/responsive-mobile-index.jpg) | ![screenshot](documentation/responsive-mobile-roh.jpg) | ![screenshot](documentation/responsive-mobile-gallery.jpg) | ![screenshot](documentation/responsive-mobile-contact.jpg) | --- |
 
 
 ## Lighthouse Audit

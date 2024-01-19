@@ -68,8 +68,6 @@ In this section, list all of your user stories for the project.
 
 ### Tablet Wireframes
 
-Click here to see the Tablet Wireframes 
-
 | Index | Roll of Honour |
 | ------------- | ------------- |
 | ![screenshot](documentation/index-tablet.png) | ![screenshot](documentation/roh-tablet.png)  |
@@ -79,7 +77,6 @@ Click here to see the Tablet Wireframes
 | ![screenshot](documentation/gallery-tablet.png)  | ![screenshot](documentation/contact-tablet.png)  |
 
 ### Desktop Wireframes
-Click here to see the Desktop Wireframes
 
 | Index | Roll of Honour |
 | ------------- | ------------- |
@@ -167,12 +164,10 @@ You can fork this repository by using the following steps:
 
 ### Local VS Deployment
 
--
+- test
 
 
 ## Credits
-
-
 
 ### Content
 
@@ -183,12 +178,6 @@ You can fork this repository by using the following steps:
 | [Chris Beams](https://chris.beams.io/posts/git-commit) | version control | "How to Write a Git Commit Message" |
 | [W3Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp) | entire site | responsive HTML/CSS/JS navbar |
 | [W3Schools](https://www.w3schools.com/howto/howto_css_modals.asp) | contact page | interactive pop-up (modal) |
-| [W3Schools](https://www.w3schools.com/css/css3_variables.asp) | entire site | how to use CSS :root variables |
-| [Flexbox Froggy](https://flexboxfroggy.com/) | entire site | modern responsive layouts |
-| [Grid Garden](https://cssgridgarden.com) | entire site | modern responsive layouts |
-| [StackOverflow](https://stackoverflow.com/a/2450976) | quiz page | Fisher-Yates/Knuth shuffle in JS |
-| [YouTube](https://www.youtube.com/watch?v=YL1F4dCUlLc) | leaderboard | using `localStorage()` in JS for high scores |
-| [YouTube](https://www.youtube.com/watch?v=u51Zjlnui4Y) | PP3 terminal | tutorial for adding color to the Python terminal |
 
 ### Media
 

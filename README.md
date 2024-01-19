@@ -6,11 +6,10 @@ The website is about Shamrock Rovers Fan or even general football fans to become
 ![screenshot](documentation/mockup.png)
 
 ## UX
-Briefly explain your design processes.
+When i decided to set up the Rovers Fan Club, the aim was to have simple website about the Shamrock Rovers Fan Club to start off, the website is intend really for anyone who wants to be a Rovers Fan Club, providing information, news about the team also the fan club. Pretty much like a social club gathering, bringing people together. Also giving brief information about Rovers and what it looks like being a Rovers Fan using the roll of honour and gallery pages.
 
 ### Colour Scheme
-
-The three main colours used are Green #118528, white #ffffff and black #000000
+The three main colours that i decided to used are Green #118528, white #ffffff and black #000000
 
 Those colours green and white is the Shamrock Rovers badge colour. So I want to stick with that theme 
 With the white background, I went with black font. The reason I chose those colour as it’s easier to see the contrast
@@ -26,7 +25,7 @@ https://coolors.co/118528-ffffff-000000-ffd43b-dfefca
 
 ### Typography
 
-I use the font Verdana as it's it score highly for web accessibility. Also use Font Awesome for icons.
+I use the font Verdana as it's it score highly for web accessibility, I kept that one font throughout the website. I use the Font Awesome website for icons, throughout the website.
 
 - [Font Awesome] (https://fontawesome.com) 
 
@@ -42,8 +41,6 @@ Footer Section in all pages
 
 ## User Stories
 
-In this section, list all of your user stories for the project.
-
 ### New Site Users
 - For First Time user, I want to easily understand the main purpose of the site and learn more about the organisation.
 - As a First Time user, I want to be able to easily navigate throughout the site to find content.
@@ -55,6 +52,7 @@ In this section, list all of your user stories for the project.
 - As a Returning user, I want to see the opening hours and days
 
 ## Wireframes
+[Balsamiq](https://balsamiq.com/) was used to create a layout of the website in the planning idea for the website. I had create a wireframe for each page in mobile, tablet and desktop.
 
 ### Mobile Wireframes
 

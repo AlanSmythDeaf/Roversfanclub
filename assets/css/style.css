@@ -189,6 +189,10 @@ h3 {
     list-style: none;
 }
 
+#support-contact > li{
+    padding-bottom: 1em;
+}
+
 /* Footer */
 footer {
     width: 100%;

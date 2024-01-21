@@ -3,17 +3,24 @@ Return back to the [README.md](README.md) file.
 
 ## Code Validation
 
-
 ### HTML
+I have used the recommended [HTML W3C Validator](https://validator.w3.org/nu/) to validate all of my HTML files.
+
 | Page | W3C URL | Screenshot | Notes |
 | --- | --- | --- | --- |
-| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FAlanSmythDeaf.github.io%2Froversfanclub%2Findex.html) | ![screenshot](documentation/html-validator-index.png) | Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections, or else use a div element instead for any cases where no heading is needed. |
+| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Falansmythdeaf.github.io%2Froversfanclub%2Findex.html) | ![screenshot](documentation/validation/html-validator-index.png) | Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections, or else use a div element instead for any cases where no heading is needed. |
 
-| Roll of honour | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FAlanSmythDeaf.github.io%2Froversfanclub%2Findex.html) | ![screenshot](documentation/html-validation-home.png) | Section lacks header h2-h6 warning |
+| Page | W3C URL | Screenshot | Notes |
+| --- | --- | --- | --- |
+| Roll of honour | [W3C](https://alansmythdeaf.github.io/roversfanclub/rollofhonour.html) | ![screenshot](documentation/validation/html-validator-roh.png) | Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections, or else use a div element instead for any cases where no heading is needed. |
 
-| Gallery | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FAlanSmythDeaf.github.io%2Froversfanclub%2Findex.html) | ![screenshot](documentation/html-validation-home.png) | Section lacks header h2-h6 warning |
+| Page | W3C URL | Screenshot | Notes |
+| --- | --- | --- | --- |
+| Gallery | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Falansmythdeaf.github.io%2Froversfanclub%2Fgallery.html) | ![screenshot](documentation/validation/hmtl-validator-gallery.png) | Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections, or else use a div element instead for any cases where no heading is needed. |
 
-| Contact | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FAlanSmythDeaf.github.io%2Froversfanclub%2Findex.html) | ![screenshot](documentation/html-validation-home.png) | Section lacks header h2-h6 warning |
+| Page | W3C URL | Screenshot | Notes |
+| --- | --- | --- | --- |
+| Contact | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Falansmythdeaf.github.io%2Froversfanclub%2Fcontact.html) | ![screenshot](documentation/validation/css-validation-style.png) | Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections, or else use a div element instead for any cases where no heading is needed. |
 
 
 ### CSS
@@ -22,7 +29,7 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
  File | Jigsaw URL | Screenshot | Notes |
 | --- | --- | --- | --- |
-| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2FAlanSmythDeaf.github.io%2Froversfanclub) | ![screenshot](documentation/css-validation-style.png) | Pass: No Errors |
+| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator) | ![screenshot](documentation/validation/css-validation-style.png) | Pass: No Errors |
 |
 
 ## Browser Compatibility

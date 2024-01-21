@@ -86,16 +86,24 @@ Footer Section in all pages
 
 ## Features
 
-- Index Page 
+The website has five pages, Index/home page, Roll of honour, gallery contact us page and confirm page which is when the user click on the send message button on the contact form, to let the user know that the form is submited will be directed to the home page.
 
-- Roll of Honour Page 
+All the pages on the website are responsive which allows the the navigation change(explain more how??)
 
-- Gallery Page 
+At the footer of the page we have social media icons which links to youtube, facebook, twitter and instagram, they are are included in all of the pages.
 
-- Contact Us Page 
+- **Index Page**
+    - Fan Club - This is section is what about the shamrock rovers fan club, about, the text is align center through out different responsiveness 
+    - Shamrock Rovers - This is section about the football club, when it was founded and to now. The text is align center through out different responsiveness
+    - Listing - this section is list of the club achivements,the text is align center through out different responsiveness
+    
+| Fan Club | Shamrock Rovers | Listing |
+| --- | --- | --- |
+| ![screenshot](documentation/features/index-fanclub.png) | ![screenshot](documentation/features/index-fanclub.png) | ![screenshot](documentation/features/index-list.png) |
+
+
 
 ### Future Features
-
 - Title for future feature #1
     - I would like to include a video in the gallery page so we can have photos and video.
 - Title for future feature #2

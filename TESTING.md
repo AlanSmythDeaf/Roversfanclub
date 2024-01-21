@@ -58,8 +58,21 @@ I've tested my deployed project on multiple devices to check for responsiveness 
 
 - Mobile Phone
 
-| Index - Home | Roll of Honour | Gallery | Contact | Notes |
-| ![screenshot](documentation/responsive-mobile-index.jpg) | ![screenshot](documentation/responsive-mobile-index.jpg) | ![screenshot](documentation/responsive-mobile-roh.jpg) | ![screenshot](documentation/responsive-mobile-gallery.jpg) | ![screenshot](documentation/responsive-mobile-contact.jpg) | --- |
+| Index - Home | Roll of Honour  | Gallery | Contact |
+| --- | --- | --- | --- |
+| ![screenshot](documentation/responsive-mobile-index.jpg) | ![screenshot](documentation/responsive-mobile-index.jpg) | ![screenshot](documentation/responsive-mobile-roh.jpg) | ![screenshot](documentation/responsive-mobile-gallery.jpg) | ![screenshot](documentation/responsive-mobile-contact.jpg) | works as expected
+
+- Tablet
+
+| Index - Home | Roll of Honour  | Gallery | Contact |
+| --- | --- | --- | --- |
+| ![screenshot](documentation/responsive-mobile-index.jpg) | ![screenshot](documentation/responsive-mobile-index.jpg) | ![screenshot](documentation/responsive-mobile-roh.jpg) | ![screenshot](documentation/responsive-mobile-gallery.jpg) | ![screenshot](documentation/responsive-mobile-contact.jpg) |
+
+- Laptop / Desktop
+
+| Index - Home | Roll of Honour  | Gallery | Contact |
+| --- | --- | --- | --- |
+| ![screenshot](documentation/responsive-mobile-index.jpg) | ![screenshot](documentation/responsive-mobile-index.jpg) | ![screenshot](documentation/responsive-mobile-roh.jpg) | ![screenshot](documentation/responsive-mobile-gallery.jpg) | ![screenshot](documentation/responsive-mobile-contact.jpg) |
 
 
 ## Lighthouse Audit
@@ -84,6 +97,7 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 | Index - Gallery | ![screenshot](documentation/lighthouse/lighthouse-mobile-gallery.png) | Recommended avoid large layout shifts & proplerly size images |
 
 | Contact | ![screenshot](documentation/lighthouse/lighthouse-mobile-contact.png) | 
+
 ## User Story Testing
 
 

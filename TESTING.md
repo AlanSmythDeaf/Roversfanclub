@@ -101,6 +101,18 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 ## User Story Testing
 
+| User Story | Screenshot |
+| --- | --- |
+| As a new site user, I would like to easily understand the main purpose of the site and learn more about the organisation. | ![screenshot](documentation/features/index-fanclub.png) |
+| As a new site user, I would like to easily navigate throughout the site to find content. | ![screenshot](documentation/browser/browser-chrome-contact.png) |
+| As a new site user, I would like view the website and content clearly on my mobile device. | ![screenshot](documentation/responsive-mobile-index.jpg) |
+| As a new site user, I would like to find ways to follow the Shamrock Rovers Fan Club on different social media platforms.| ![screenshot](documentation/browser/browser-chrome-contact.png) |
+
+| User Story | Screenshot |
+| --- | --- |
+| As a Returning user, I want to see the gallery section | ![screenshot](documentation/responsiveness/responsive-desktop-gallery.jpg) |
+| As a Returning user,  I want to see the opening hours and days| ![screenshot](documentation/browser/browser-chrome-contact.png) |
+
 ## Bugs
 
 - When validating HTML, theSection lacks heading. Consider using h2-h6 elements to add identifying headings to all sections, or else use a div element instead for any cases where no heading is needed.

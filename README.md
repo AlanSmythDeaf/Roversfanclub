@@ -211,12 +211,10 @@ There is no difference from local and deployment as you can see the examples bel
 | Source | Location | Notes |
 | --- | --- | --- |
 | [Markdown Builder](https://tim.2bn.dev/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
-| [W3Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp) | entire site | responsive HTML/CSS/JS navbar |
-| [W3Schools](https://www.w3schools.com/howto/howto_css_modals.asp) | contact page | interactive pop-up (model) |
-| --- | --- | --- |
-| --- | --- | --- |
-| --- | --- | --- |
-| --- | --- | --- |
+| [W3Schools](https://www.w3schools.com/howto/howto_css_modals.asp) | contact page | Form |
+| [Shamrock Rovers](https://www.shamrockrovers.ie/history/) | index | About Shamrock Rovers bio and listing |
+| [Shamrock Rovers](https://www.shamrockrovers.ie/history/) | Roll of Honour | Images |
+| [Love Running](https://code-institute-org.github.io/love-running-2.0/index.html) | gallery | photos |
 
 ### Media
 

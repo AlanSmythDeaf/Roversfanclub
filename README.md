@@ -144,7 +144,6 @@ This section has two parts, information and form, in mobile view it's scroll dow
 - [Coolors](https://coolors.co/) used for displaying colours in the website
 - [Canva](https://www.canva.com/) used for designing the images in the roll of honour page
 - [google](https://www.google.com/) used for searching information
-- [W3School](https://www.w3schools.com/)
 - [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`)
 - [GitHub](https://github.com) used for secure online code storage.
 - [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
@@ -209,14 +208,15 @@ There is no difference from local and deployment as you can see the examples bel
 ## Credits
 
 ### Content
-
-
 | Source | Location | Notes |
 | --- | --- | --- |
 | [Markdown Builder](https://tim.2bn.dev/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
-| [Chris Beams](https://chris.beams.io/posts/git-commit) | version control | "How to Write a Git Commit Message" |
 | [W3Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp) | entire site | responsive HTML/CSS/JS navbar |
-| [W3Schools](https://www.w3schools.com/howto/howto_css_modals.asp) | contact page | interactive pop-up (modal) |
+| [W3Schools](https://www.w3schools.com/howto/howto_css_modals.asp) | contact page | interactive pop-up (model) |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
 
 ### Media
 
@@ -227,9 +227,9 @@ There is no difference from local and deployment as you can see the examples bel
 | [Canva](https://canva.com) | Home Page | image | tool for image compression |
 | [FontAwesome](https://fontawesome.com) | Home Page/Footer/Contact Us Page | image | icon |
 | [League of Ireland](https://www.leagueofireland.ie/news/day-loi-april-6/) |Roll of Honour Page | image | image of Derek Tracey |
-| Shamrock Rovers(https://www.shamrockrovers.ie/club/)| Roll of Honour Page|Image| Image of Paddy Coad |
-|[independent] (https://www.independent.ie/sport/teams-who-stood-apart-shamrock-rovers-make-fai-cup-history/31172726.html)| Roll of Honour Page|image |Image of Paddy Ambrose |
-| Gallery  | Gallery Page | image | The images are my own |
+|[Shamrock Rovers](https://www.shamrockrovers.ie/club/)| Roll of Honour Page|Image| Image of Paddy Coad |
+|[independent](https://www.independent.ie/sport/teams-who-stood-apart-shamrock-rovers-make-fai-cup-history/31172726.html)| Roll of Honour Page|image |Image of Paddy Ambrose |
+| [Gallery](https://8000-alansmythde-roversfancl-6vemvqq30ti.ws-eu107.gitpod.io/gallery.html)  | Gallery Page | image | The images are my own |
 
 
 ### Acknowledgements

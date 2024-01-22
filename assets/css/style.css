@@ -55,7 +55,6 @@ header a {
 }
 
 /* dropdown toggle for the Nav */
-
 nav {
     position: absolute;
     background-color: #118525;
@@ -123,8 +122,7 @@ nav {
     box-shadow: 10px 10px 5px lightgray;
 }
 
-/* Gallery */
-
+/* Gallery Section */
 #photos {
     text-align: center;
 }
@@ -147,7 +145,6 @@ nav {
 
 
 /* Contact Us Section */
-
 #contact-details {
     margin-top: 13% ;
     text-align: center;

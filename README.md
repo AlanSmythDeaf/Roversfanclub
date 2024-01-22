@@ -120,7 +120,7 @@ This section has two parts, information and form, in mobile view it's scroll dow
     - Information - This is section is what about the shamrock rovers fan club, about, the text is align center when mobile viewing and when it's tablet/desktop the text is moved to the left 
     - Form - This is section inputing your name, email adress and message, you are required to have an input in those three. The text is align center through out different responsiveness
 
-| Information | Input |  |
+| Information | Input | Thank you |
 | --- | --- | --- |
 | ![screenshot](documentation/features/info-contact.png) | ![screenshot](documentation/features/input-contact.png) | ![screenshot](documentation/features/thankyou.png) |
 
@@ -136,9 +136,15 @@ This section has two parts, information and form, in mobile view it's scroll dow
 ## Tools & Technologies Used
 - [HTML](https://en.wikipedia.org/wiki/HTML) used for the main site content.
 - [CSS](https://en.wikipedia.org/wiki/CSS) used for the main site design and layout.
+- [Dev Tools](https://developer.chrome.com/docs/devtools) used for see different responsive pages, also edit pages and diagnose problems
 - [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) used for an enhanced responsive layout.
 - [CSS Grid](https://www.w3schools.com/css/css_grid.asp) used for an enhanced responsive layout.
-- [JavaScript](https://www.javascript.com) used for user interaction on the site.
+- [W3C](https://validator.w3.org/) used for validating the website coding
+- [Balsamiq](https://balsamiq.com) used for drawing a pre-website wireframes
+- [Coolors](https://coolors.co/) used for displaying colours in the website
+- [Canva](https://www.canva.com/) used for designing the images in the roll of honour page
+- [google](https://www.google.com/) used for searching information
+- [W3School](https://www.w3schools.com/)
 - [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`)
 - [GitHub](https://github.com) used for secure online code storage.
 - [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
@@ -193,7 +199,11 @@ You can fork this repository by using the following steps:
 
 ### Local VS Deployment
 
-- test
+There is no difference from local and deployment as you can see the examples below
+
+| Index | Roll of Honour |
+| --- | --- |
+| ![screenshot](documentation/local-deploy-index.png) | ![screenshot](documentation/local-deploy-roh.png) |
 
 
 ## Credits
@@ -226,7 +236,7 @@ You can fork this repository by using the following steps:
 
 - I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for his support and guidance throughout the development of this project.
 - I would like to thank the [Code Institute](https://codeinstitute.net) tutor team weekly meeting for their support.
-- I would like to thank the Deaf people in our group[Code Institute Slack community](https://code-institute-room.slack.com) for the moral support; knowing that all are in the same boat even though we all have difference background.
+- I would like to thank the Deaf people in our group [Code Institute Slack community](https://code-institute-room.slack.com) for the moral support; knowing that all are in the same boat even though we all have difference background.
 
 
 

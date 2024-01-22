@@ -62,17 +62,17 @@ I've tested my deployed project on multiple devices to check for responsiveness 
 | --- | --- | --- | --- |
 | ![screenshot](documentation/responsive-mobile-index.jpg) | ![screenshot](documentation/responsive-mobile-index.jpg) | ![screenshot](documentation/responsive-mobile-roh.jpg) | ![screenshot](documentation/responsive-mobile-gallery.jpg) | ![screenshot](documentation/responsive-mobile-contact.jpg) | works as expected
 
-- Tablet
+- Tablet (Ipad Mini)
 
 | Index - Home | Roll of Honour  | Gallery | Contact |
 | --- | --- | --- | --- |
-| ![screenshot](documentation/responsive-mobile-index.jpg) | ![screenshot](documentation/responsive-mobile-index.jpg) | ![screenshot](documentation/responsive-mobile-roh.jpg) | ![screenshot](documentation/responsive-mobile-gallery.jpg) | ![screenshot](documentation/responsive-mobile-contact.jpg) |
+| ![screenshot](documentation/responsiveness/responsive-ipad-index.png) | ![screenshot](documentation/responsiveness/responsive-ipad-roh.png) | ![screenshot](documentation/responsiveness/responsive-ipad-gallery.png) | ![screenshot](documentation/responsiveness/responsive-ipad-gallery.png) | 
 
 - Laptop / Desktop
 
 | Index - Home | Roll of Honour  | Gallery | Contact |
 | --- | --- | --- | --- |
-| ![screenshot](documentation/responsive-mobile-index.jpg) | ![screenshot](documentation/responsive-mobile-index.jpg) | ![screenshot](documentation/responsive-mobile-roh.jpg) | ![screenshot](documentation/responsive-mobile-gallery.jpg) | ![screenshot](documentation/responsive-mobile-contact.jpg) |
+| ![screenshot](documentation/responsiveness/responsive-desktop-index.jpg) | ![screenshot](documentation/responsiveness/responsive-desktop-roh.jpg) | ![screenshot](documentation/responsiveness/responsive-desktop-gallery.jpg) | ![screenshot](documentation/responsiveness/responsive-desktop-contact.jpg) |
 
 
 ## Lighthouse Audit
@@ -104,6 +104,4 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 ## Bugs
 
-
 ## Unfixed Bugs
-

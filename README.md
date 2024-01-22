@@ -101,13 +101,36 @@ At the footer of the page we have social media icons which links to youtube, fac
 | --- | --- | --- |
 | ![screenshot](documentation/features/index-fanclub.png) | ![screenshot](documentation/features/index-fanclub.png) | ![screenshot](documentation/features/index-list.png) |
 
+- **Roll of Honour Page**
+    - Images - There is only one section in this page, it has six images of the recognition that the club and player has achieved, from mobile phone it's one image, then onto tablet size it's two and then onto bigger screen it's three images. The images has a box shadow 
 
+| One Image | Two Image | Three Image |
+| --- | --- | --- |
+| ![screenshot](documentation/features/one-image.png) | ![screenshot](documentation/features/two-images.png) | ![screenshot](documentation/features/three-images.png) |
+
+- **Gallery Page**
+    - Photos - There is only one section in this page, it has sevens photos varying from fans, players and staduim. It only has one photo from mobile phone viweing, then onto tablet size it's two and then onto bigger screen it's three. The photos has a sort of a polaroid style with a box shadow
+
+| One Photo | Two Photos | Three Photos |
+| --- | --- | --- |
+| ![screenshot](documentation/features/one-photo.png) | ![screenshot](documentation/features/two-photo.png) | ![screenshot](documentation/features/three-photos.png) |
+
+- **Contact Us**
+This section has two parts, information and form, in mobile view it's scroll down and the moving to tablet/laptop/desktop view the information and form sit beside each other
+    - Information - This is section is what about the shamrock rovers fan club, about, the text is align center when mobile viewing and when it's tablet/desktop the text is moved to the left 
+    - Form - This is section inputing your name, email adress and message, you are required to have an input in those three. The text is align center through out different responsiveness
+
+| Information | Input |  |
+| --- | --- | --- |
+| ![screenshot](documentation/features/info-contact.png) | ![screenshot](documentation/features/input-contact.png) | ![screenshot](documentation/features/thankyou.png) |
 
 ### Future Features
-- Title for future feature #1
+- Video
     - I would like to include a video in the gallery page so we can have photos and video.
-- Title for future feature #2
+- Cover Flow
     - I would perhaps change the layout of the roll of honour, Would like to have cover flow and more in depth details of the roll of honour i.e.
+- Blog
+    - I would set up a blog page where members can have a chat or blog away
 
 
 ## Tools & Technologies Used

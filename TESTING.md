@@ -98,10 +98,12 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 | Contact | ![screenshot](documentation/lighthouse/lighthouse-mobile-contact.png) | 
 
+
 ## User Story Testing
-
-
 
 ## Bugs
 
+- When validating HTML, theSection lacks heading. Consider using h2-h6 elements to add identifying headings to all sections, or else use a div element instead for any cases where no heading is needed.
+
+    ![screenshot](documentation/validation/html-validator-roh.png)
 ## Unfixed Bugs

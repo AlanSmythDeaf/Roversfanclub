@@ -58,31 +58,31 @@ Footer Section in all pages
 
 | Index | Roll of Honour |
 | ------------- | ------------- |
-| ![screenshot](documentation/index-mobile.png) | ![screenshot](documentation/roh-mobile.png)  |
+| ![screenshot](documentation/wireframe/index-mobile.png) | ![screenshot](documentation/wireframe/roh-mobile.png)  |
 
 | Gallery | Contact |
 | ------------- | ------------- |
-| ![screenshot](documentation/gallery-mobile.png)  | ![screenshot](documentation/contact-mobile.png)  |
+| ![screenshot](documentation/wireframe/gallery-mobile.png)  | ![screenshot](documentation/wireframe/contact-mobile.png)  |
 
 ### Tablet Wireframes
 
 | Index | Roll of Honour |
 | ------------- | ------------- |
-| ![screenshot](documentation/index-tablet.png) | ![screenshot](documentation/roh-tablet.png)  |
+| ![screenshot](documentation/wireframe/index-tablet.png) | ![screenshot](documentation/wireframe/roh-tablet.png)  |
 
 | Gallery | Contact |
 | ------------- | ------------- |
-| ![screenshot](documentation/gallery-tablet.png)  | ![screenshot](documentation/contact-tablet.png)  |
+| ![screenshot](documentation/wireframe/gallery-tablet.png)  | ![screenshot](documentation/wireframe/contact-tablet.png)  |
 
 ### Desktop Wireframes
 
 | Index | Roll of Honour |
 | ------------- | ------------- |
-| ![screenshot](documentation/index-desktop.png) | ![screenshot](documentation/roh-desktop.png)  |
+| ![screenshot](documentation/wireframe/index-desktop.png) | ![screenshot](documentation/wireframe/roh-desktop.png)  |
 
 | Gallery | Contact |
 | ------------- | ------------- |
-| ![screenshot](documentation/gallery-desktop.png)  | ![screenshot](documentation/contact-desktop.png)  |
+| ![screenshot](documentation/wireframe/gallery-desktop.png)  | ![screenshot](documentation/wireframe/contact-desktop.png)  |
 
 ## Features
 

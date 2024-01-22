@@ -60,7 +60,7 @@ I've tested my deployed project on multiple devices to check for responsiveness 
 
 | Index - Home | Roll of Honour  | Gallery | Contact |
 | --- | --- | --- | --- |
-| ![screenshot](documentation/responsive-mobile-index.jpg) | ![screenshot](documentation/responsive-mobile-index.jpg) | ![screenshot](documentation/responsive-mobile-roh.jpg) | ![screenshot](documentation/responsive-mobile-gallery.jpg) | ![screenshot](documentation/responsive-mobile-contact.jpg) | works as expected
+| ![screenshot](documentation/responsiveness/responsive-mobile-index.jpg) | ![screenshot](documentation/responsiveness/responsive-mobile-roh.jpg) | ![screenshot](documentation/responsiveness/responsive-mobile-gallery.jpg) | ![screenshot](documentation/responsiveness/responsive-mobile-contact.jpg) | works as expected
 
 - Tablet (Ipad Mini)
 

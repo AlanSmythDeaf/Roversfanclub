@@ -17,7 +17,9 @@ With the white background, I went with black font. The reason I chose those colo
 
 - `#000000` used for primary text.
 - `#FFFFFF` used for secondary text.
-- `#118528 ` used for contact page ‘Supporter Club’ text.
+- `#118528` used for contact page ‘Supporter Club’ text.
+- `#FFD43B` used for for star, in the hero image and icon at the bottom.
+- `#DFEFCA ` used for the background in the form, contact page.
 
 I use the website call coolors.co to get the color palette 
 https://coolors.co/118528-ffffff-000000-ffd43b-dfefca

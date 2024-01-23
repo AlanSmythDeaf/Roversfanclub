@@ -90,7 +90,7 @@ Footer Section in all pages
 
 The website has five pages, Index/home page, Roll of honour, gallery contact us page and confirm page which is when the user click on the send message button on the contact form, to let the user know that the form is submited will be directed to the home page.
 
-All the pages on the website are responsive which allows the the navigation change(explain more how??)
+All the pages on the website are responsive which allows the the menu to change, in the mobile viewing you will have a burger icon at the top right which has list of pages pop up once you click on it, from the tablet to larger screen the burger icon is removed and all the pages list are side by side.
 
 At the footer of the page we have social media icons which links to youtube, facebook, twitter and instagram, they are are included in all of the pages.
 
